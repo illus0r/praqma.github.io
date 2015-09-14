@@ -1,6 +1,6 @@
 ---
-layout: front
-title: Pinside front
+layout: bootstrap
+title: Praqma
 ---
-#Praqma's Web Blog
+#Praqma's Web
 _Contributing Continuously..._
