@@ -1,4 +1,5 @@
 # Site settings
+# test
 title: Praqma-Continuous Delivery Company
 highlighter: pygments
 exclude: [README.md]
